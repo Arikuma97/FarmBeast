@@ -11,8 +11,6 @@
 (() => {
   'use strict';
 
-  /**** Script Registration ****/
-  ScriptAPI.register('FarmGod', true, 'Warre', 'nl.tribalwars@coma.innogames.de');
 
   /**** Namespace ****/
   window.FarmGod = {};
